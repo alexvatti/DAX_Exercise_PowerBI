@@ -1,6 +1,6 @@
 # DAX_Exercise_PowerBI
 
-
+![DAX_Exercise_PowerBI](https://github.com/alexvatti/DAX_Exercise_PowerBI/blob/main/Capture.png)
 **Filter Context:**
 Filter context is the set of values allowed in each column, based on filter constraints that were applied to the row or that are defined by filter expressions within the formula.
 
